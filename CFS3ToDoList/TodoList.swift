@@ -24,7 +24,7 @@ class TodoList {
     }
     
     func removeAll() {
-        self.allToDos.removeAll()
+        self.allTodos.removeAll()
     }
     
     func getTodoAt(index: Int) -> Todo {
